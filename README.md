@@ -28,10 +28,10 @@ on windows:
 	"/Users/MyUsername"
 
 then look for this in play.py
-for x in os.walk("/me/enc/mal/"):
+for x in os.walk("/YOUR/DIRECTORY/witha / at the end"):
 
 replace this part of the code
-("/me/enc/mal/")
+("/YOUR/DIRECTORY/witha / at the end")
 replace with
 (home)
 so it should be 
