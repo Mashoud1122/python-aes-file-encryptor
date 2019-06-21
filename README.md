@@ -1,14 +1,11 @@
-<h1>PLEASE DO NOT RUN ON YOUR SYSTEM</h1>
-<h1>OR SYSTEMS THAT YOU ARE NOT ALLOWED TO RUN THIS ON</h1>
-as usual
-"For educational purposes only :)"
-
-This is a very simple python code
-100% undetectacble by an antivirus (check with virus total :-) )
-I think it will be termed a ransomware lol
+<h1>PLEASE USE IT AS A WISE PERSON</h1>
+Was just playing around with python and decided to make this file encryptor.
+It can be used wisely to encrypt your files and decrypt when needed. 
+Or.
+To randomly encrypt a PC.[Files will not be recovered if you do it randomly]
 
 It encrypts all files given in a directory
-you can decrypt it with d-dec.py
+you can decrypt it with d-dec.py [with your key in play.py]
 
 or you can make play.py encrypt files with random keys
 NB: Files cannot be decrypted in this way 
